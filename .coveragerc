@@ -1,5 +1,5 @@
 [run]
-source=transformers
+source=pytorch_transformers
 omit =
     # skip convertion scripts from testing for now
     */convert_*
